@@ -16298,6 +16298,11 @@
   "RootNamespace": "WebApp",
   "Documents": [
     {
+      "FilePath": "/home/berkecan/Code/WebApp/Views/Account/index.cshtml",
+      "TargetPath": "Views\\Account\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/berkecan/Code/WebApp/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
